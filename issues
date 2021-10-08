@@ -1,0 +1,10 @@
+Reading state information...
+W: --force-yes is deprecated, use one of the options starting with --allow instead.
+E: Unable to locate package spinnaker-igor
+! ERROR Error encountered running script. See above output for more
+  details.
+
+
+SOl:
+
+Choose coorect version of spinnaker
